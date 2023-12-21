@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "robotarna")(type "KiCad")(uri "C:/KiCad/Robotarna_KiCad_Library/Robotarna_KiCad_Library")(options "")(descr ""))
+  (lib (name "robotarna1")(type "KiCad")(uri "C:/KiCad/Robotarna_KiCad_Library/Robotarna_KiCad_Library/Robotarna_KiCad_Library.pretty")(options "")(descr ""))
+)
