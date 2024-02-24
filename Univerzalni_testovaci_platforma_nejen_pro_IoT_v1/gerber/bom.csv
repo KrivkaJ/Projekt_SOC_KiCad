@@ -7,8 +7,7 @@ Comment,Designator,Footprint,LCSC
 22uF,C17,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C59461
 22µF solid tantalum,C18,Capacitor_Tantalum_SMD:CP_EIA-6032-20_AVX-F_Pad2.25x2.35mm_HandSolder,C2798049
 18pF,"C19,C20",Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C1647
-BLUE,D1,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C72041
-RED,D2,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C2286
+RED,"D1,D2",LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C2286
 Conn_02x03_Counter_Clockwise,J5,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical,C2894964
 USB_C_Receptacle,J6,Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11,C165948
 100k,"R1,R39",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25803

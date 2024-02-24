@@ -8347,7 +8347,7 @@
     (property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf" (id 3) (at 330.2 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C841797" (id 4) (at 327.66 29.21 0)
+    (property "LCSC" "C73181" (id 4) (at 327.66 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0c5cb59c-2e73-4d08-bb91-e1c58f443186))

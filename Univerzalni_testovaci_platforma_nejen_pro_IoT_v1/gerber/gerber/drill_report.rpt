@@ -1,5 +1,5 @@
 Drill report for Univerzalni_testovaci_platforma_nejen_pro_IoT_v1.kicad_pcb
-Created on Fri Jan 26 15:08:13 2024
+Created on Wed Jan 31 17:58:44 2024
 
 Copper Layer Stackup:
     =============================================================
@@ -12,19 +12,21 @@ Copper Layer Stackup:
 Drill file 'Univerzalni_testovaci_platforma_nejen_pro_IoT_v1.drl' contains
     plated through holes:
     =============================================================
-    T1  0.400mm  0.0157"  (261 holes)
-    T2  0.600mm  0.0236"  (4 holes)  (with 4 slots)
-    T3  0.762mm  0.0300"  (44 holes)
-    T4  1.000mm  0.0394"  (106 holes)
-    T5  1.040mm  0.0409"  (38 holes)
+    T1  0.300mm  0.0118"  (32 holes)
+    T2  0.400mm  0.0157"  (253 holes)
+    T3  0.500mm  0.0197"  (39 holes)
+    T4  0.600mm  0.0236"  (4 holes)  (with 4 slots)
+    T5  0.762mm  0.0300"  (44 holes)
+    T6  1.000mm  0.0394"  (116 holes)
+    T7  1.040mm  0.0409"  (38 holes)
 
-    Total plated holes count 453
+    Total plated holes count 526
 
 
 Not plated through holes are merged with plated holes
     unplated through holes:
     =============================================================
-    T6  0.650mm  0.0256"  (2 holes)
-    T7  3.200mm  0.1260"  (4 holes)
+    T8  0.650mm  0.0256"  (2 holes)
+    T9  3.200mm  0.1260"  (4 holes)
 
     Total unplated holes count 6
